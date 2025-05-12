@@ -10,6 +10,7 @@ b = ones(n)
 
 ### votre code ici ; ne rien modifier d'autre
 x = rand(n)
+# SOLUTION 
 ###
 
 # vérification
