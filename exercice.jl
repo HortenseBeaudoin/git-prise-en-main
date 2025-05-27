@@ -7,11 +7,8 @@ A = [1.0  2.0  3.0;
 b = ones(n)
 
 # résoudre Ax = b
+x = A \ b
 
-### votre code ici ; ne rien modifier d'autre
-x = rand(n)
-# SOLUTION 
-###
 
 # vérification
 using Test
